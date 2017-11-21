@@ -1,2 +1,2 @@
 # RCShow
-Remote Controler from Limukit Show
+Remote Controller from Lumikit Show
